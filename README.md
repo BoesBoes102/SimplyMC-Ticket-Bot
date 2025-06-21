@@ -1,4 +1,4 @@
-# Project Name
+# SimpleMC ticket bot
 
 Simple ticket bot with python
 
